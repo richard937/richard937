@@ -1,16 +1,36 @@
-### Hi there 👋
+
 
 <!--
-**richard937/richard937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**richard937/richard937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<h1 align="center">Hello World 👋, I'm Papun</h1>
+<h3 align="center">A noob, learning how to Code</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=richard937" alt="richard937" /> </p>
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [richard937.github.io](richard937.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **papuncharan@gmail.com**
+
+<p align="left"> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>   
+<img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>  
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=richard937&show_icons=true" alt="richard937" /> 
+</p>
+
+<p align="center">
+<a href="https://codepen.io/richard937" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="richard937" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/papun-charan-b7a4a3156" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="papun-charan-b7a4a3156" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/richard937" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="richard937" height="20" width="20" /></a>
+<a href="https://fb.com/papun.charan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="papun.charan" height="20" width="20" /></a>
+<a href="https://instagram.com/papn_chrn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="papn_chrn" height="20" width="20" /></a>
+</p>
