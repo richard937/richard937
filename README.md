@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/richard937" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="richard937" height="20" width="20" /></a>
+<a href="https://codepen.io/Tyson89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="richard937" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/papun-charan-b7a4a3156" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="papun-charan-b7a4a3156" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/richard937" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="richard937" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/11912071/richard937" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="richard937" height="20" width="20" /></a>
 <a href="https://fb.com/papun.charan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="papun.charan" height="20" width="20" /></a>
 <a href="https://instagram.com/papn_chrn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="papn_chrn" height="20" width="20" /></a>
 </p>
