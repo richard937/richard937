@@ -6,7 +6,7 @@
 <h3 align="center">A noob, learning how to Code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard937" alt="richard937" /> </p>
 
-- 👨‍💻 All of my projects are available at [richard937.github.io](richard937.github.io)
+- 👨‍💻 All of my projects are available at [richard937.github.io](https://richard937.github.io/)
 
 - 💬 Ask me about **JavaScript**
 
